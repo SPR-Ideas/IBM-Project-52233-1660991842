@@ -58,7 +58,17 @@ Dhaanish Ahmed College Of Engineering
 - [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-52233-1660991842/tree/main/Project%20Design%20%26%20%20Planning/Project%20Design%20Phase%20II)
 - [Project Planning](https://github.com/IBM-EPBL/IBM-Project-52233-1660991842/tree/main/Project%20Design%20%26%20%20Planning/Project%20Planning)
 
--Completed Succesfully.
+Status :
+
+Ideation Phase - Done
+Problem Statement - Done
+Project Design & Planning I - Done
+Project Design & Planning II - Done
+Project Planning - Done
+Sprint 1 - 
+Sprint 2 - 
+Sprint 3 - 
+Sprint 4 - 
 
 ## Tech Stack
 
