@@ -91,7 +91,7 @@ Status :
 
 ## Feedback
 
-If you have any feedback, please reach out to us at shnitu0@gmail.com
+If you have any feedback, please reach out to us at shahibhasan@icloud.com
 
 
 
