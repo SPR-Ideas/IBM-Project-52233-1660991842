@@ -60,15 +60,15 @@ Dhaanish Ahmed College Of Engineering
 
 Status :
 
-Ideation Phase - Done
-Problem Statement - Done
-Project Design & Planning I - Done
-Project Design & Planning II - Done
-Project Planning - Done
-Sprint 1 - 
-Sprint 2 - 
-Sprint 3 - 
-Sprint 4 - 
+- Ideation Phase - Done
+- Problem Statement - Done
+- Project Design & Planning I - Done
+- Project Design & Planning II - Done
+- Project Planning - Done
+- Sprint 1 - 
+- Sprint 2 - 
+- Sprint 3 - 
+- Sprint 4 - 
 
 ## Tech Stack
 
