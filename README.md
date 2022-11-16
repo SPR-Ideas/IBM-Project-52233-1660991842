@@ -65,10 +65,10 @@ Status :
 - Project Design & Planning I - Done
 - Project Design & Planning II - Done
 - Project Planning - Done
-- Sprint 1 - 
-- Sprint 2 - 
-- Sprint 3 - 
-- Sprint 4 - 
+- Sprint 1 - Done
+- Sprint 2 - Done
+- Sprint 3 - Done
+- Sprint 4 - Done
 
 ## Tech Stack
 
